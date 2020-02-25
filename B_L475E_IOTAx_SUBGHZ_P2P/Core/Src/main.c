@@ -31,6 +31,7 @@
 #define TX_BUFFER_SIZE   20
 #define RX_BUFFER_SIZE   96
 
+
 /* Private macro -------------------------------------------------------------*/
 /* Private variables ---------------------------------------------------------*/
 uint8_t TxLength = TX_BUFFER_SIZE;
