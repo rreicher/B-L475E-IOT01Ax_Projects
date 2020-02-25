@@ -1,0 +1,2 @@
+# B-L475E-IOT01Ax_Projects
+STM32CubeIDE Projects for B-L475E-IOT01 with STM32L475RE
